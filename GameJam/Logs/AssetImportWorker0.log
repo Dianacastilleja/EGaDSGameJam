@@ -15,11 +15,11 @@ C:/Users/evp429/Documents/GAMEJAME/EGaDSGameJam/GameJam
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51515
+51637
 Successfully changed project path to: C:/Users/evp429/Documents/GAMEJAME/EGaDSGameJam/GameJam
 C:/Users/evp429/Documents/GAMEJAME/EGaDSGameJam/GameJam
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 20.88 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 28.62 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.2f1 (068178b99f32)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
@@ -35,55 +35,151 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56088
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56396
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001431 seconds.
+Registered in 0.178227 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 21.14 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 22.95 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.777 seconds
+- Completed reload, in  3.633 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000641 seconds.
+Registered in 0.053324 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.637 seconds
+- Completed reload, in  2.117 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.8 MB.
-System memory in use after: 128.8 MB.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.8 MB.
+System memory in use after: 129.9 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1547.
-Total: 1.798700 ms (FindLiveObjects: 0.115500 ms CreateObjectMapping: 0.031100 ms MarkObjects: 1.589600 ms  DeleteObjects: 0.061800 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1548.
+Total: 3.729400 ms (FindLiveObjects: 0.261000 ms CreateObjectMapping: 0.142800 ms MarkObjects: 3.137500 ms  DeleteObjects: 0.186100 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/PRACTICE.cs
-  artifactKey: Guid(6d6268addaac5974f9f05811209e2491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/PRACTICE.cs using Guid(6d6268addaac5974f9f05811209e2491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59557913fe38befa691a967277144526') in 0.034949 seconds
-  Import took 0.036384 seconds .
+  path: Assets/Kevin Iglesias/Elemental Animations/Elemental Animations - Example Scene.unity
+  artifactKey: Guid(1fadcbc482a623a4c8b4d6dcc2f808f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Elemental Animations/Elemental Animations - Example Scene.unity using Guid(1fadcbc482a623a4c8b4d6dcc2f808f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4a8ba4cf451c97968fa1b3ce282ba2b') in 0.018612 seconds
+  Import took 0.021538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Kevin Iglesias/Elemental Animations
+  artifactKey: Guid(d218c8dfa6b85d84ab7a1eb74d347f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Elemental Animations using Guid(d218c8dfa6b85d84ab7a1eb74d347f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f070e775348383af3800e7c367502ed7') in 0.005170 seconds
+  Import took 0.006590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.296736 seconds.
+  path: Assets/Kevin Iglesias/Elemental Animations/Prefabs
+  artifactKey: Guid(3cc27f55eb0c69840b32817558a83d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Elemental Animations/Prefabs using Guid(3cc27f55eb0c69840b32817558a83d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48ede596afdede2bf721d95b2f70fd51') in 0.006364 seconds
+  Import took 0.008015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055755 seconds.
+  path: Assets/Kevin Iglesias/Elemental Animations/Prefabs/EarthElemental.prefab
+  artifactKey: Guid(e373e494e658be5459d465340412ce15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Elemental Animations/Prefabs/EarthElemental.prefab using Guid(e373e494e658be5459d465340412ce15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8252401ff727b8e8ce2c6c6235d6e4') in 0.100005 seconds
+  Import took 0.102470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Kevin Iglesias/Elemental Animations/Prefabs/FireElemental.prefab
+  artifactKey: Guid(45e99415f7c19dc4e92b2e6aa30963d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Elemental Animations/Prefabs/FireElemental.prefab using Guid(45e99415f7c19dc4e92b2e6aa30963d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd72c00a561de10793d977f7bd81d34e1') in 0.037812 seconds
+  Import took 0.040119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Kevin Iglesias/Elemental Animations/Prefabs/IceElemental.prefab
+  artifactKey: Guid(96e44255d011f5c4a961e18f28e7cb82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Elemental Animations/Prefabs/IceElemental.prefab using Guid(96e44255d011f5c4a961e18f28e7cb82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '296185e376b43aaf5f9fc1b8d2b07b70') in 0.024926 seconds
+  Import took 0.027216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.315707 seconds.
+  path: Assets/Kevin Iglesias/Elemental Animations/Animations
+  artifactKey: Guid(f05decbc7a931654ab3463b80af85782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Elemental Animations/Animations using Guid(f05decbc7a931654ab3463b80af85782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485c19dbf32ca87d2a71775f9a0c11d2') in 0.005962 seconds
+  Import took 0.007658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063387 seconds.
+  path: Assets/Kevin Iglesias/Elemental Animations/Animations/Elemental@Idle01.fbx
+  artifactKey: Guid(ac81dcae051626e458a9128d1b9221cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Elemental Animations/Animations/Elemental@Idle01.fbx using Guid(ac81dcae051626e458a9128d1b9221cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd15e8f2409b6ea2c50b51375f6a5c36') in 0.016394 seconds
+  Import took 0.018175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.151875 seconds.
+  path: Assets/Kevin Iglesias/Elemental Animations/Animations/Combat
+  artifactKey: Guid(c3f0f129f63f5c4409982033b6561313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Elemental Animations/Animations/Combat using Guid(c3f0f129f63f5c4409982033b6561313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ced30a6df94d0dd4b57ecf36e4d4f8a2') in 0.006520 seconds
+  Import took 0.008346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.081997 seconds.
+  path: Assets/Kevin Iglesias/Elemental Animations/Animations/Combat/Elemental@Damage01.fbx
+  artifactKey: Guid(d908ee8f42d489b48bf2dfb3ef13fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Elemental Animations/Animations/Combat/Elemental@Damage01.fbx using Guid(d908ee8f42d489b48bf2dfb3ef13fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eca9302e6437fe60ff6138be6f1956a') in 0.010051 seconds
+  Import took 0.011920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Kevin Iglesias/Elemental Animations/Animations/Combat/Elemental@UnarmedAttack01.fbx
+  artifactKey: Guid(cde43294ac99f73418cd76012af6f580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Elemental Animations/Animations/Combat/Elemental@UnarmedAttack01.fbx using Guid(cde43294ac99f73418cd76012af6f580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6866c4a4bff8ccb4924d9639ce30823') in 0.009193 seconds
+  Import took 0.010876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.267386 seconds.
+  path: Assets/WizardPolyArt/Scene
+  artifactKey: Guid(12a57bdbc736ce1449ab269138e47291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Scene using Guid(12a57bdbc736ce1449ab269138e47291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cdd725e3f7bdd8e0cf951d4978bff33') in 0.005798 seconds
+  Import took 0.007508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.849712 seconds.
+  path: Assets/WizardPolyArt/Scene/WizardScene.unity
+  artifactKey: Guid(1bf912b9f8baab0489fd62f6c317e8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WizardPolyArt/Scene/WizardScene.unity using Guid(1bf912b9f8baab0489fd62f6c317e8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '745e0a26f19ad9a8906ebae4e8b5bba0') in 0.005837 seconds
+  Import took 0.007486 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000631 seconds.
+Registered in 0.000505 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
@@ -92,46 +188,15 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.793 seconds
+- Completed reload, in  0.556 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 129.0 MB.
-System memory in use after: 129.0 MB.
+System memory in use before: 133.3 MB.
+System memory in use after: 133.4 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1549.
-Total: 1.355500 ms (FindLiveObjects: 0.124700 ms CreateObjectMapping: 0.034500 ms MarkObjects: 1.157200 ms  DeleteObjects: 0.038400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000479 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.572 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 129.3 MB.
-System memory in use after: 129.4 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1551.
-Total: 1.324000 ms (FindLiveObjects: 0.124300 ms CreateObjectMapping: 0.035600 ms MarkObjects: 1.130200 ms  DeleteObjects: 0.033300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 25.799428 seconds.
-  path: Assets/Scenes/PRACTICE.cs
-  artifactKey: Guid(6d6268addaac5974f9f05811209e2491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/PRACTICE.cs using Guid(6d6268addaac5974f9f05811209e2491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a87070d4d3d1eed787bf2de3f43f4f') in 0.005023 seconds
-  Import took 0.007934 seconds .
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 1.481600 ms (FindLiveObjects: 0.117800 ms CreateObjectMapping: 0.027500 ms MarkObjects: 1.296500 ms  DeleteObjects: 0.038400 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
