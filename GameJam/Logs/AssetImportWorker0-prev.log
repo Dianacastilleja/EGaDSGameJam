@@ -1,0 +1,1771 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19045.2965; Version 2009; 64bit' Language: 'en' Physical Memory: 16120 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/evp429/Documents/GAMEJAME/EGaDSGameJam/GameJam
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50981
+Successfully changed project path to: C:/Users/evp429/Documents/GAMEJAME/EGaDSGameJam/GameJam
+C:/Users/evp429/Documents/GAMEJAME/EGaDSGameJam/GameJam
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 18.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/evp429/Documents/GAMEJAME/EGaDSGameJam/GameJam/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon 550 (ID=0x699f)
+    Vendor:   
+    VRAM:     1993 MB
+    Driver:   30.0.13018.4000
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56692
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001288 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 17.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.717 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000502 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.586 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.5 MB.
+System memory in use after: 56.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1540.
+Total: 4.268300 ms (FindLiveObjects: 0.362400 ms CreateObjectMapping: 0.140300 ms MarkObjects: 3.561100 ms  DeleteObjects: 0.201400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(7bdf259b2340d984a8d511659a36a6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(7bdf259b2340d984a8d511659a36a6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ecad2076c8312780caf5005bb7affed') in 0.007361 seconds
+  Import took 0.008764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9831e44e2a700a6e1119228b2d38e767') in 0.011038 seconds
+  Import took 0.012434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.453430 seconds.
+  path: Assets/SimpleNaturePack
+  artifactKey: Guid(30341396a589664418cb8e33d2b6dc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack using Guid(30341396a589664418cb8e33d2b6dc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31dd82234a83a5475e5c700ad55d7a9a') in 0.006734 seconds
+  Import took 0.008407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.646666 seconds.
+  path: Assets/SimpleNaturePack/Scenes
+  artifactKey: Guid(cf7d20afeed25e648acff9bab9734317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes using Guid(cf7d20afeed25e648acff9bab9734317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1df982c9fd1008bf89b837e52c1958a') in 0.001803 seconds
+  Import took 0.003272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.707481 seconds.
+  path: Assets/SimpleNaturePack/Scenes/SimpleNaturePack_Demo.unity
+  artifactKey: Guid(5e7af4bd95ac53a4cb784a9eedf8f6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes/SimpleNaturePack_Demo.unity using Guid(5e7af4bd95ac53a4cb784a9eedf8f6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1835a0499978fef4c83fb1ba22d6bcb') in 0.006615 seconds
+  Import took 0.008792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.668749 seconds.
+  path: Assets/SimpleNaturePack/Scenes/SimpleNaturePack_Overview.unity
+  artifactKey: Guid(b818941d93326b949a3840a1d79ea88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes/SimpleNaturePack_Overview.unity using Guid(b818941d93326b949a3840a1d79ea88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13759155aa0ed5367863fd781300bc96') in 0.005760 seconds
+  Import took 0.007297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.163783 seconds.
+  path: Assets/SimpleLowPolyNature/Lowpoly Demo Post-processing Profile.asset
+  artifactKey: Guid(8474767a16347414bbd97f6670a97ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Lowpoly Demo Post-processing Profile.asset using Guid(8474767a16347414bbd97f6670a97ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839fd4d526104dd728c75d8e2b4c50b3') in 0.040241 seconds
+  Import took 0.042145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.248106 seconds.
+  path: Assets/SimpleLowPolyNature/Scenes
+  artifactKey: Guid(42f24a6993a5efe45921fa92af43b7e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Scenes using Guid(42f24a6993a5efe45921fa92af43b7e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8395a666746d05668abe1a3d9c9091') in 0.001925 seconds
+  Import took 0.003443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.639699 seconds.
+  path: Assets/SimpleLowPolyNature/Scenes/PrefabsScene.unity
+  artifactKey: Guid(5ae366fa2c5d6bc4197d7b09d5ea5fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Scenes/PrefabsScene.unity using Guid(5ae366fa2c5d6bc4197d7b09d5ea5fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c29769bac9a44f698ed4144ada862e') in 0.008340 seconds
+  Import took 0.010118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.481477 seconds.
+  path: Assets/SimpleLowPolyNature/Scenes/DemoNight.unity
+  artifactKey: Guid(a098ae9106bc995448a4aba7dfe6a4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Scenes/DemoNight.unity using Guid(a098ae9106bc995448a4aba7dfe6a4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4716b97de22a2242a99c3ce3d32545b') in 0.006527 seconds
+  Import took 0.008730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.837538 seconds.
+  path: Assets/SimpleLowPolyNature/Scenes/DemoDay.unity
+  artifactKey: Guid(304a5748b784bc241be3c08d67013b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Scenes/DemoDay.unity using Guid(304a5748b784bc241be3c08d67013b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e57a7f6bf5929b89f0e296eab05a1d4c') in 0.006327 seconds
+  Import took 0.008120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.647765 seconds.
+  path: Assets/SimpleLowPolyNature/Scenes/SceneDemoAsset
+  artifactKey: Guid(f1cb0ac6ac2a1b24e9ba7d358353264c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Scenes/SceneDemoAsset using Guid(f1cb0ac6ac2a1b24e9ba7d358353264c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f827e71675eed579e7e4f7beba741f7') in 0.005909 seconds
+  Import took 0.007495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070042 seconds.
+  path: Assets/SimpleLowPolyNature/Scenes/SceneDemoAsset/LowpolyTerrain.prefab
+  artifactKey: Guid(f01337c4b1a6e774cb6a6f4c3dd02910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Scenes/SceneDemoAsset/LowpolyTerrain.prefab using Guid(f01337c4b1a6e774cb6a6f4c3dd02910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11a90b7c015e9c9e4f694c08a7d4146d') in 0.084781 seconds
+  Import took 0.086750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.499863 seconds.
+  path: Assets/SimpleLowPolyNature/Materials
+  artifactKey: Guid(3285be480b55bcc41af2063e1d870bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials using Guid(3285be480b55bcc41af2063e1d870bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1f15676f97bf3f5a463e2c6d7b4048') in 0.006731 seconds
+  Import took 0.008574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067141 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/CloudMat.mat
+  artifactKey: Guid(51adf49c828af4b42b49cd399cd49b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/CloudMat.mat using Guid(51adf49c828af4b42b49cd399cd49b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbc7b3eb0a0b3569f8b939466552158f') in 0.044442 seconds
+  Import took 0.046494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/Flower2Mat.mat
+  artifactKey: Guid(1c5a335489a263f458754f8cde45f221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/Flower2Mat.mat using Guid(1c5a335489a263f458754f8cde45f221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b69f76b8cf857461be4669b5163b581') in 0.011075 seconds
+  Import took 0.012956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/TreeRedMat.mat
+  artifactKey: Guid(f154dff7fb489d2499686dc9f08c626a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/TreeRedMat.mat using Guid(f154dff7fb489d2499686dc9f08c626a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6efbb5392cb592a6e59b558aabfb65e0') in 0.012298 seconds
+  Import took 0.014069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/WaterMat.mat
+  artifactKey: Guid(541d89427b42b4040b80b215bdd9a767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/WaterMat.mat using Guid(541d89427b42b4040b80b215bdd9a767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce269e5ed4c0328a15f4c32187d31b8c') in 0.222039 seconds
+  Import took 0.224065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/RockMat.mat
+  artifactKey: Guid(5bfbfdebccebf0c45832bef70d1337f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/RockMat.mat using Guid(5bfbfdebccebf0c45832bef70d1337f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07a8a6d232cbf6321b066d17527b024b') in 0.011474 seconds
+  Import took 0.013185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/Mushroom3Mat.mat
+  artifactKey: Guid(23f92ab09af350146b1d22ca67ed7887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/Mushroom3Mat.mat using Guid(23f92ab09af350146b1d22ca67ed7887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b98065e4d945dc91747806f7ef41f46a') in 0.012305 seconds
+  Import took 0.014009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/TreeGreen2Mat.mat
+  artifactKey: Guid(b6747bf277df0e344ac544c7cfa37c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/TreeGreen2Mat.mat using Guid(b6747bf277df0e344ac544c7cfa37c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70bb2ebcac66edfbdb787869ac47b028') in 0.010667 seconds
+  Import took 0.012355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/TreeGreen1Mat.mat
+  artifactKey: Guid(cf7b2a2a4b5c2bb409c794db9d64ff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/TreeGreen1Mat.mat using Guid(cf7b2a2a4b5c2bb409c794db9d64ff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a41ff034d72337a9a1f314ec34fa6c7b') in 0.012423 seconds
+  Import took 0.014147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/Wood1Mat.mat
+  artifactKey: Guid(57f391477e46ecd44af6579114e37dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/Wood1Mat.mat using Guid(57f391477e46ecd44af6579114e37dfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54039b99930ec3e1f882f920317314c7') in 0.011533 seconds
+  Import took 0.013213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/Wood2Mat.mat
+  artifactKey: Guid(983007e3e230f954187baf11f58a929d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/Wood2Mat.mat using Guid(983007e3e230f954187baf11f58a929d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc442d8ef0ccfa211ac3d6f20bd5f884') in 0.016663 seconds
+  Import took 0.019315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/Flower1Mat.mat
+  artifactKey: Guid(202c5159be2241d4682cfcbb8d30c7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/Flower1Mat.mat using Guid(202c5159be2241d4682cfcbb8d30c7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeb80228227b20871c65bcfd8c667c38') in 0.016751 seconds
+  Import took 0.019250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/PlantMat.mat
+  artifactKey: Guid(49f2ecb08a0c38140b335a0a1f7f66f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/PlantMat.mat using Guid(49f2ecb08a0c38140b335a0a1f7f66f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc87adc2663d4bc1af75b5e93282370e') in 0.027895 seconds
+  Import took 0.031151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/TreeOrangeMat.mat
+  artifactKey: Guid(33535d2d31f89e846b6ec7c60219cb96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/TreeOrangeMat.mat using Guid(33535d2d31f89e846b6ec7c60219cb96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6747485ca8e569afcc9cc279692c0988') in 0.025089 seconds
+  Import took 0.027475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/FireParticleAddMat.mat
+  artifactKey: Guid(4d013014c63f66349b847f12173289d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/FireParticleAddMat.mat using Guid(4d013014c63f66349b847f12173289d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9791e0ad3d7f2f7a4a2baeb4d46f1a02') in 0.061472 seconds
+  Import took 0.063435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/FireParticleMat.mat
+  artifactKey: Guid(0e82a89a9331d7c4bb16ef322caffd53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/FireParticleMat.mat using Guid(0e82a89a9331d7c4bb16ef322caffd53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efe8695e67b2b4a988716774da806f44') in 1.492025 seconds
+  Import took 1.494262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/Mushroom2Mat.mat
+  artifactKey: Guid(308680fc3656cdb49aa30c04aae1eb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/Mushroom2Mat.mat using Guid(308680fc3656cdb49aa30c04aae1eb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39dda76905798d85f002d45439961882') in 0.011466 seconds
+  Import took 0.013158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/EmissionBlueMat.mat
+  artifactKey: Guid(5a42f8033becfcc4db580e9dd08bd6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/EmissionBlueMat.mat using Guid(5a42f8033becfcc4db580e9dd08bd6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afdee2c6300dc6a532db35886ead3fd0') in 0.293723 seconds
+  Import took 0.295903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/Mushroom1Mat.mat
+  artifactKey: Guid(5835797300e10724eb31a26fa6baa1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/Mushroom1Mat.mat using Guid(5835797300e10724eb31a26fa6baa1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0dfcc68a5c5b6ef10d99a753a6584b9') in 0.012704 seconds
+  Import took 0.014532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/DemoPlaneMat.mat
+  artifactKey: Guid(d598d01c3db68c94692eb5c44c83de93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/DemoPlaneMat.mat using Guid(d598d01c3db68c94692eb5c44c83de93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de9971429c69cfaa30d8305e2b3d5bb0') in 0.024648 seconds
+  Import took 0.026846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000564 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/TreePinkMat.mat
+  artifactKey: Guid(e8231e5e093c804458795712745c4041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/TreePinkMat.mat using Guid(e8231e5e093c804458795712745c4041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ee62143d6738925b718373acb94d15') in 0.022038 seconds
+  Import took 0.024409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/TreeYellowMat.mat
+  artifactKey: Guid(1b3799f72f9aa654d9f7a3787feef4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/TreeYellowMat.mat using Guid(1b3799f72f9aa654d9f7a3787feef4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '866d5d89ba508d14e0402f3c196be957') in 0.018326 seconds
+  Import took 0.020855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/Flower4Mat.mat
+  artifactKey: Guid(b043653feafde9a498c209b65e6b09a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/Flower4Mat.mat using Guid(b043653feafde9a498c209b65e6b09a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31547a2a6011bc9f7406d469387d4595') in 0.014562 seconds
+  Import took 0.017486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/EmissionYellowMat.mat
+  artifactKey: Guid(a23517422c44285409996ebf0584f793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/EmissionYellowMat.mat using Guid(a23517422c44285409996ebf0584f793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '279699971921d01572ea62624734e878') in 0.022365 seconds
+  Import took 0.024873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/SimpleLowPolyNature/Materials/Flower3Mat.mat
+  artifactKey: Guid(ef2c3380ea506a54a96b15b9518d303e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Materials/Flower3Mat.mat using Guid(ef2c3380ea506a54a96b15b9518d303e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f5e0e6618a6f5efbb7b38e2eef02f85') in 0.020521 seconds
+  Import took 0.023101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.034043 seconds.
+  path: Assets/SimpleLowPolyNature/Models
+  artifactKey: Guid(36891dc9b6bef9042abe878169ca7447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models using Guid(36891dc9b6bef9042abe878169ca7447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf6c04a4177ac6b005779613b12b4fe3') in 0.008922 seconds
+  Import took 0.011265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046540 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Cloud1.fbx
+  artifactKey: Guid(ba90c7e89ce8fb847b770b7be3fc7975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Cloud1.fbx using Guid(ba90c7e89ce8fb847b770b7be3fc7975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a08f134533b98cc22fb244b7e72d1d1d') in 0.187467 seconds
+  Import took 0.191012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Rock10.fbx
+  artifactKey: Guid(d288b039beecd234b907927b55a30107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Rock10.fbx using Guid(d288b039beecd234b907927b55a30107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78fd3b51bea2081e539533f54205b3f5') in 0.013502 seconds
+  Import took 0.015222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Tree1.fbx
+  artifactKey: Guid(05781e34d19387b4bb9c0e1c42f03352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Tree1.fbx using Guid(05781e34d19387b4bb9c0e1c42f03352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0c4116af597d59819e39d1ac11bc0b') in 0.018378 seconds
+  Import took 0.021036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/SimpleLowPolyNature/Models/TreeDead1.fbx
+  artifactKey: Guid(0b3d8d7f8b41322499664c115aa6ca90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/TreeDead1.fbx using Guid(0b3d8d7f8b41322499664c115aa6ca90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcbdae125199727f4cdeb95a30542af6') in 0.019596 seconds
+  Import took 0.021855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/SimpleLowPolyNature/Models/WoodBoat.fbx
+  artifactKey: Guid(eab23c9c4322e3e48842315d6748b1f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/WoodBoat.fbx using Guid(eab23c9c4322e3e48842315d6748b1f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6527716888aaab1a908cf781efc0380') in 0.017431 seconds
+  Import took 0.019877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000874 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Rock1.fbx
+  artifactKey: Guid(9b23133e3eda78249896e5786ae357a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Rock1.fbx using Guid(9b23133e3eda78249896e5786ae357a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '566c0edfc631bf75164e7ce051162bc7') in 0.030470 seconds
+  Import took 0.033301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Rock9.fbx
+  artifactKey: Guid(72d3bb69f36ca644da1c82e40bc74a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Rock9.fbx using Guid(72d3bb69f36ca644da1c82e40bc74a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3a6bd0ef4a5bb2f12014a7583ad28d8') in 0.021332 seconds
+  Import took 0.023410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Tree3.fbx
+  artifactKey: Guid(c7e1cca0da1433e4dbc6264118a69146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Tree3.fbx using Guid(c7e1cca0da1433e4dbc6264118a69146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '579af502f510f372b80044a51f51510b') in 0.018713 seconds
+  Import took 0.021162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Grass3.fbx
+  artifactKey: Guid(5d1150fbaa24aa24da8c409fd45a1433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Grass3.fbx using Guid(5d1150fbaa24aa24da8c409fd45a1433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0420527f7c37d3f98a32eafd4aa5a329') in 0.024237 seconds
+  Import took 0.026155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Ivy1.fbx
+  artifactKey: Guid(f5c94a9017473824b95fdbc555580349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Ivy1.fbx using Guid(f5c94a9017473824b95fdbc555580349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8990b7b9754af6e071c65aa0865662bc') in 0.014421 seconds
+  Import took 0.016336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Rock12.fbx
+  artifactKey: Guid(43ee757e6d4e733469e710178cf7e322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Rock12.fbx using Guid(43ee757e6d4e733469e710178cf7e322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4463013f5649470329ea6c662da5ab') in 0.024316 seconds
+  Import took 0.026610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/SimpleLowPolyNature/Models/LightingPlant1.fbx
+  artifactKey: Guid(5a354059445b3474fbd658226ba1efdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/LightingPlant1.fbx using Guid(5a354059445b3474fbd658226ba1efdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4b4425887d564e35210f3828af905ba') in 0.016025 seconds
+  Import took 0.018446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/SimpleLowPolyNature/Models/FallenBranch.fbx
+  artifactKey: Guid(a05b1bd673e1bfd4986cd14348a0c7c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/FallenBranch.fbx using Guid(a05b1bd673e1bfd4986cd14348a0c7c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2992d45bcd38424e6f079451c17d64c1') in 0.019276 seconds
+  Import took 0.021354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/SimpleLowPolyNature/Models/LightingPlant2.fbx
+  artifactKey: Guid(4a7d6681c1a137843b4a5b1dd9d74e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/LightingPlant2.fbx using Guid(4a7d6681c1a137843b4a5b1dd9d74e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f46a9aeadf106081fdf6ac3c59f6fac') in 0.016755 seconds
+  Import took 0.019156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/SimpleLowPolyNature/Models/TreeStump1.fbx
+  artifactKey: Guid(71e7cb600453b0a4791c471c86dcb60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/TreeStump1.fbx using Guid(71e7cb600453b0a4791c471c86dcb60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1387a4bb5a9d948f62e7d3268d4578f') in 0.018792 seconds
+  Import took 0.020956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/SimpleLowPolyNature/Models/TreeDead2.fbx
+  artifactKey: Guid(b54382c620f8b7242b02940a41e44c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/TreeDead2.fbx using Guid(b54382c620f8b7242b02940a41e44c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81caa8b126b0b3fe75990f6b01ef8cab') in 0.016015 seconds
+  Import took 0.018471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Rock3.fbx
+  artifactKey: Guid(e59d406fb2d8bac47b32b6dcdb25db4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Rock3.fbx using Guid(e59d406fb2d8bac47b32b6dcdb25db4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d10ecf024708ae85b46198e814e64c') in 0.015899 seconds
+  Import took 0.018010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Tent.fbx
+  artifactKey: Guid(819ac2c6fef18c54f850315b810c8cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Tent.fbx using Guid(819ac2c6fef18c54f850315b810c8cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4867e204c8150a3afd014c595090bc3') in 0.019634 seconds
+  Import took 0.022062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/SimpleLowPolyNature/Models/FireParticle.fbx
+  artifactKey: Guid(dc361669c609eb24c8940f9c51167859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/FireParticle.fbx using Guid(dc361669c609eb24c8940f9c51167859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a563d8fb1b9d1f3a89f1c49ff0062da') in 0.014313 seconds
+  Import took 0.016569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Ivy2.fbx
+  artifactKey: Guid(4a6b6e5f854d4a84f8b73456e687eec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Ivy2.fbx using Guid(4a6b6e5f854d4a84f8b73456e687eec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ebbbbecc606fe902b247df1528316d1') in 0.013764 seconds
+  Import took 0.016120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Plant4.fbx
+  artifactKey: Guid(069e24942767b3942830cac408517235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Plant4.fbx using Guid(069e24942767b3942830cac408517235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c90a05d7b57c3b92d671f9778c41875') in 0.014618 seconds
+  Import took 0.017045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Tree2.fbx
+  artifactKey: Guid(18e0a23f11756454e801ad6f484ca310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Tree2.fbx using Guid(18e0a23f11756454e801ad6f484ca310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f997e7538dac1ea6b9214a124b0d8850') in 0.017635 seconds
+  Import took 0.019962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Flower3.fbx
+  artifactKey: Guid(0b327016a46383242b0c0f14ed5d68b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Flower3.fbx using Guid(0b327016a46383242b0c0f14ed5d68b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98ada90d9742bf911a78536c0b7e05ed') in 0.014686 seconds
+  Import took 0.016701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Rock4.fbx
+  artifactKey: Guid(4c3cbb765dc1a514e95c24a788dcf485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Rock4.fbx using Guid(4c3cbb765dc1a514e95c24a788dcf485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71f6dba7c63bbc59af024abe254b1bbe') in 0.016900 seconds
+  Import took 0.019232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Rock11.fbx
+  artifactKey: Guid(eaac711c8733edd43828a7a4976ee8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Rock11.fbx using Guid(eaac711c8733edd43828a7a4976ee8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '407c9b728da2b4c5a9b9671641f00043') in 0.025101 seconds
+  Import took 0.027506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Log.fbx
+  artifactKey: Guid(d215d40c0f10c0e4d840d05f62427501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Log.fbx using Guid(d215d40c0f10c0e4d840d05f62427501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdc79b1f4d7f187e58a47401b03cf98c') in 0.017844 seconds
+  Import took 0.020454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Paddle.fbx
+  artifactKey: Guid(b62293594e3695c48b305cd99fdd72e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Paddle.fbx using Guid(b62293594e3695c48b305cd99fdd72e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3509d4235c99170bc43b1822215ef4b7') in 0.015840 seconds
+  Import took 0.018309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Mushroom1.fbx
+  artifactKey: Guid(2c7af3c4dc7207a43b3b8baeed6d5ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Mushroom1.fbx using Guid(2c7af3c4dc7207a43b3b8baeed6d5ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e249c96f49c67faa8e6ce92171512b8') in 0.029838 seconds
+  Import took 0.032243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Grass4.fbx
+  artifactKey: Guid(a2848514d81208b45acb2d6cb8e2953c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Grass4.fbx using Guid(a2848514d81208b45acb2d6cb8e2953c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca7af50837a75ead16b06d62db09cfcb') in 0.022951 seconds
+  Import took 0.025442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/SimpleLowPolyNature/Models/WoodFence2.fbx
+  artifactKey: Guid(a7eee764f17b55b4dbca990db05fd90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/WoodFence2.fbx using Guid(a7eee764f17b55b4dbca990db05fd90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd438ed1bbabd5331a20f792559fca86d') in 0.019706 seconds
+  Import took 0.021867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/SimpleLowPolyNature/Models/LowpolyTerrain.fbx
+  artifactKey: Guid(f12a3f0431cfacf478a61ba99a1dd233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/LowpolyTerrain.fbx using Guid(f12a3f0431cfacf478a61ba99a1dd233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc3d79ae9cf6b4c9d47376f59626bcc0') in 0.015953 seconds
+  Import took 0.018213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Rock5.fbx
+  artifactKey: Guid(1c31f4821cebacb4caf43d3a6524741e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Rock5.fbx using Guid(1c31f4821cebacb4caf43d3a6524741e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15bfd3fe6778fdf49350c8c643336c65') in 0.034275 seconds
+  Import took 0.036467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Mushroom2.fbx
+  artifactKey: Guid(64bc47654f6eeab479ac0592b8150617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Mushroom2.fbx using Guid(64bc47654f6eeab479ac0592b8150617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4541149f7acb47b4d1bcaebbb547718') in 0.015037 seconds
+  Import took 0.017091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Rock2.fbx
+  artifactKey: Guid(ff14cd0f332a7e04baab73f8c39b3918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Rock2.fbx using Guid(ff14cd0f332a7e04baab73f8c39b3918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd970133138232289b43210dd6a7f80c1') in 0.016286 seconds
+  Import took 0.018536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Rock8.fbx
+  artifactKey: Guid(432dbfb06e4b27c4685dd4b73d12867a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Rock8.fbx using Guid(432dbfb06e4b27c4685dd4b73d12867a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d6ef7ed4e82f9dc1ca087b3b251079e') in 0.016328 seconds
+  Import took 0.018871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Cloud2.fbx
+  artifactKey: Guid(a6334d263148b284bb2aeeef15b19ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Cloud2.fbx using Guid(a6334d263148b284bb2aeeef15b19ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f2fc2769e8f1ee6d6d41a732bb075ee') in 0.015491 seconds
+  Import took 0.017684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/SimpleLowPolyNature/Models/FireWood.fbx
+  artifactKey: Guid(76e0ad8bbe5fca64f90e1cb33a04e75e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/FireWood.fbx using Guid(76e0ad8bbe5fca64f90e1cb33a04e75e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298f2253911ddcb1447dc4262319488a') in 0.015577 seconds
+  Import took 0.017528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Rock6.fbx
+  artifactKey: Guid(4cfe42c97b386f64db12ed55713310df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Rock6.fbx using Guid(4cfe42c97b386f64db12ed55713310df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6596a716c390fdd95cb7b82fa087fd7') in 0.024439 seconds
+  Import took 0.026565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Rock7.fbx
+  artifactKey: Guid(2cc59136d903eed44a9abe0c3b52c3d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Rock7.fbx using Guid(2cc59136d903eed44a9abe0c3b52c3d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfcf1d1733e78e52547b222f8ff4a2b9') in 0.014944 seconds
+  Import took 0.017583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/SimpleLowPolyNature/Models/WoodFence1.fbx
+  artifactKey: Guid(c699e5b3f6b327a409822e3e22e386dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/WoodFence1.fbx using Guid(c699e5b3f6b327a409822e3e22e386dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea533ae4acd8c0afdd03970eaae21a03') in 0.016193 seconds
+  Import took 0.018034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Flower1.fbx
+  artifactKey: Guid(5e29eb426a57a534b92c5c4f3eb82a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Flower1.fbx using Guid(5e29eb426a57a534b92c5c4f3eb82a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b25c6351bd8ce575cf96d8cf51f3de5') in 0.015461 seconds
+  Import took 0.017607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Plant2.fbx
+  artifactKey: Guid(fd2d428f4f99f46478350601d0aea1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Plant2.fbx using Guid(fd2d428f4f99f46478350601d0aea1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca2705f29ed115abcfdcade0a7474673') in 0.013326 seconds
+  Import took 0.015234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Flower2.fbx
+  artifactKey: Guid(0c77d10ec0c97b54da131d936ef92059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Flower2.fbx using Guid(0c77d10ec0c97b54da131d936ef92059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9f0106dd62015df340376426fb74f9e') in 0.012743 seconds
+  Import took 0.014391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Plant3.fbx
+  artifactKey: Guid(bcd65237e57a75348badd8c90f53bcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Plant3.fbx using Guid(bcd65237e57a75348badd8c90f53bcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '176b5360ce6332e46fbc18c80cf7c470') in 0.013176 seconds
+  Import took 0.014827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Grass2.fbx
+  artifactKey: Guid(2ed78cd0e0a5e934b8bb7f6be867e913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Grass2.fbx using Guid(2ed78cd0e0a5e934b8bb7f6be867e913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e40f196120516608bf7b2b306dfb6205') in 0.024926 seconds
+  Import took 0.026916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/SimpleLowPolyNature/Models/MushroomLarge.fbx
+  artifactKey: Guid(f5e25367993acbf438c5aeffe76fa5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/MushroomLarge.fbx using Guid(f5e25367993acbf438c5aeffe76fa5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '186c053b91fae513cdb9ee4458b76aa3') in 0.018608 seconds
+  Import took 0.020839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Grass1.fbx
+  artifactKey: Guid(5954e88e9d890844e863ec1621dc70a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Grass1.fbx using Guid(5954e88e9d890844e863ec1621dc70a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95bf0f0cb142b91b1854e49842ad7c51') in 0.015741 seconds
+  Import took 0.018645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/SimpleLowPolyNature/Models/Plant1.fbx
+  artifactKey: Guid(1cba636e69e49404b8b39d4573d0a421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Models/Plant1.fbx using Guid(1cba636e69e49404b8b39d4573d0a421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '887f4efb6cf1083a051ca8817dd33628') in 0.020734 seconds
+  Import took 0.023463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.874246 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs
+  artifactKey: Guid(45690ad9e15981946be65f9548d8dd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs using Guid(45690ad9e15981946be65f9548d8dd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcbb9ba96173232698f6a7bf2080fdbb') in 0.007089 seconds
+  Import took 0.009332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055416 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/CampFire.prefab
+  artifactKey: Guid(d6a5e2c4aefa6804b8f7d2af9a9676b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/CampFire.prefab using Guid(d6a5e2c4aefa6804b8f7d2af9a9676b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ba4efa8a05fa46c3618f1ad775d67c') in 1.340661 seconds
+  Import took 1.343184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Rock12.prefab
+  artifactKey: Guid(169e5f050a9f145489237cc7105f3c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Rock12.prefab using Guid(169e5f050a9f145489237cc7105f3c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35bf325e91398fab47369615f9377c77') in 0.013153 seconds
+  Import took 0.015718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Flower3.prefab
+  artifactKey: Guid(221bd8eee906efe489a9f1c8aad0ec09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Flower3.prefab using Guid(221bd8eee906efe489a9f1c8aad0ec09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7163407b2072802ce3666f3d3d21e796') in 0.019105 seconds
+  Import took 0.021554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/TreePink3.prefab
+  artifactKey: Guid(1850815f38acaab4085c2fb6a7ca2928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/TreePink3.prefab using Guid(1850815f38acaab4085c2fb6a7ca2928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1afe8dc17c5da2c39fe6207c7689c57') in 0.021466 seconds
+  Import took 0.023905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Mushroom2.prefab
+  artifactKey: Guid(5ad0841d147e6664f9ee38e733624608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Mushroom2.prefab using Guid(5ad0841d147e6664f9ee38e733624608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fe86311f73cf17329a4c590afd353d2') in 0.019290 seconds
+  Import took 0.021581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Flower4.prefab
+  artifactKey: Guid(96d41c598e0118d4e8684be3e2d7effb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Flower4.prefab using Guid(96d41c598e0118d4e8684be3e2d7effb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4615838c509f8e511cf7d4c0ef1f89af') in 0.017206 seconds
+  Import took 0.019874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/TreeYellow3.prefab
+  artifactKey: Guid(2196e66c52d25ac469e55fb8f4d54d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/TreeYellow3.prefab using Guid(2196e66c52d25ac469e55fb8f4d54d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c7a83e88913bb128ec16d6c127d4aef') in 0.022082 seconds
+  Import took 0.024415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Rock10.prefab
+  artifactKey: Guid(dc53baa962b6d244cb9e81ec33c0865a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Rock10.prefab using Guid(dc53baa962b6d244cb9e81ec33c0865a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1a079e221c24eca25fddd67fcef8719') in 0.021448 seconds
+  Import took 0.023984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Rock5.prefab
+  artifactKey: Guid(daf661d478fbcbf4791f00721500cb43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Rock5.prefab using Guid(daf661d478fbcbf4791f00721500cb43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19b941a70b5ca2f2eb7b0f327c07c288') in 0.017151 seconds
+  Import took 0.019552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/WoodFence1.prefab
+  artifactKey: Guid(aa99a810914c5b84b9bc5d51f95dd05c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/WoodFence1.prefab using Guid(aa99a810914c5b84b9bc5d51f95dd05c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0153b317b2cfbd76114d389316e17413') in 0.011224 seconds
+  Import took 0.014239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Clouds1Layer.prefab
+  artifactKey: Guid(e1eaa02314a382d4193af3de770677f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Clouds1Layer.prefab using Guid(e1eaa02314a382d4193af3de770677f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c0fc5c5b1b0a41dc70621134ebc61e4') in 0.009079 seconds
+  Import took 0.011664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Tree3.prefab
+  artifactKey: Guid(a79279818571b6848a9ccb8dcb36dd2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Tree3.prefab using Guid(a79279818571b6848a9ccb8dcb36dd2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee1cf8cf1807443285670b361da98dc6') in 0.011182 seconds
+  Import took 0.013572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/TreeDead2.prefab
+  artifactKey: Guid(decec03a9de484948b79da6219847d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/TreeDead2.prefab using Guid(decec03a9de484948b79da6219847d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54bb039849d10628ee565c928acb7e44') in 0.013425 seconds
+  Import took 0.015955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Clouds2Layer.prefab
+  artifactKey: Guid(89364a38eefe93d4495fa803300fc501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Clouds2Layer.prefab using Guid(89364a38eefe93d4495fa803300fc501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ccc5fec8f3b448a44daa52c30eb409') in 0.008205 seconds
+  Import took 0.010677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Mushroom1.prefab
+  artifactKey: Guid(1ac31fb474aead74ab0101d0d6546c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Mushroom1.prefab using Guid(1ac31fb474aead74ab0101d0d6546c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12392f3c2fb5e4b7b44f49a830350499') in 0.015443 seconds
+  Import took 0.017987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/MushroomLarge.prefab
+  artifactKey: Guid(47ded181e73460047bae5118c0254d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/MushroomLarge.prefab using Guid(47ded181e73460047bae5118c0254d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8b8e9c0bd0d34ff8cdfb8a31e5ec170') in 0.012720 seconds
+  Import took 0.015179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Rock8.prefab
+  artifactKey: Guid(2e56899687a42f54aa20a3b27f073806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Rock8.prefab using Guid(2e56899687a42f54aa20a3b27f073806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e0b53a06ce1d025fe71516d967fc5dd') in 0.016328 seconds
+  Import took 0.018865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/LightingPlant2.prefab
+  artifactKey: Guid(92101ed146e7f434cb43a3680c518e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/LightingPlant2.prefab using Guid(92101ed146e7f434cb43a3680c518e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '100405db9833c8f97710d16f87347b0a') in 0.013385 seconds
+  Import took 0.015379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/PlantEx4.prefab
+  artifactKey: Guid(5693a57c90ef40744848833e4aa5eff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/PlantEx4.prefab using Guid(5693a57c90ef40744848833e4aa5eff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a666f3ea0cc6ba37f1ca83fc5c8af6b') in 0.010684 seconds
+  Import took 0.012486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Tree1.prefab
+  artifactKey: Guid(5983c8a04c0e73047a6c860b9cd9aaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Tree1.prefab using Guid(5983c8a04c0e73047a6c860b9cd9aaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cecb9cf585267d1acdf3f8400d69c706') in 0.013493 seconds
+  Import took 0.016356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/WoodBoat.prefab
+  artifactKey: Guid(27e25e3bc7ba5f640aea250f9a3842bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/WoodBoat.prefab using Guid(27e25e3bc7ba5f640aea250f9a3842bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3b51156cad2d37661cb5aa439585462') in 0.012397 seconds
+  Import took 0.014911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Ivy2.prefab
+  artifactKey: Guid(8c1162e29ab5baf45ad76ebc6e86889b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Ivy2.prefab using Guid(8c1162e29ab5baf45ad76ebc6e86889b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e28ec41f5b671206bc58b2fd0a788614') in 0.011357 seconds
+  Import took 0.013351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Rock11.prefab
+  artifactKey: Guid(c00ecfa9e008e304ca87beda15e69f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Rock11.prefab using Guid(c00ecfa9e008e304ca87beda15e69f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a42d1e6498202692fb1f0205f5749ea') in 0.017464 seconds
+  Import took 0.019894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Rock7.prefab
+  artifactKey: Guid(387f66ad181e92a48a858cf3a9e7df2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Rock7.prefab using Guid(387f66ad181e92a48a858cf3a9e7df2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05cf209e9f5b9ae37cfa785cb65ec7f5') in 0.011962 seconds
+  Import took 0.014465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Rock2.prefab
+  artifactKey: Guid(936441e8ad7465e409c2285b778dfd8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Rock2.prefab using Guid(936441e8ad7465e409c2285b778dfd8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d1d0cdcde3d3b3349d029c3119bdc6b') in 0.014606 seconds
+  Import took 0.017096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Grass3.prefab
+  artifactKey: Guid(aca4c69ba2792044da19860502518138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Grass3.prefab using Guid(aca4c69ba2792044da19860502518138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd594d5134aaeda0cd9c6021347b5323f') in 0.017973 seconds
+  Import took 0.023558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Rock4.prefab
+  artifactKey: Guid(1aba0fbf10ced5447ad5eb30f4652084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Rock4.prefab using Guid(1aba0fbf10ced5447ad5eb30f4652084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b28fd6eea41c575bc6b93592ac10586') in 0.015458 seconds
+  Import took 0.019051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/TreeStump.prefab
+  artifactKey: Guid(c185f4228ecc7b14cb47ae816197d6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/TreeStump.prefab using Guid(c185f4228ecc7b14cb47ae816197d6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c40b308343ad378928b7a00c3f955d7') in 0.012408 seconds
+  Import took 0.014609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/PlantEx1.prefab
+  artifactKey: Guid(c0c49c89c2d72a14892c9d4ad23f6dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/PlantEx1.prefab using Guid(c0c49c89c2d72a14892c9d4ad23f6dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fcc62ae3b3d7a1d7534bc662c18de58') in 0.014415 seconds
+  Import took 0.016325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Grass4.prefab
+  artifactKey: Guid(08bdb42a7413db34e867890b29e20ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Grass4.prefab using Guid(08bdb42a7413db34e867890b29e20ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '431d015c71809f264ff273963e6f470b') in 0.011999 seconds
+  Import took 0.014000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Rock3.prefab
+  artifactKey: Guid(1cc366ffed1f2924690139d67a88b254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Rock3.prefab using Guid(1cc366ffed1f2924690139d67a88b254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb66c532abbf90920b0a4b78a4f4d50') in 0.010837 seconds
+  Import took 0.012942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Tree2.prefab
+  artifactKey: Guid(3e2accafa3a5f1b40ba86cf39bcb49a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Tree2.prefab using Guid(3e2accafa3a5f1b40ba86cf39bcb49a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d8f85300abe37e54ea2bbcab95185b') in 0.010716 seconds
+  Import took 0.012778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/WoodFence2.prefab
+  artifactKey: Guid(5172505cfbc25c644ad2ab70b9c6271a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/WoodFence2.prefab using Guid(5172505cfbc25c644ad2ab70b9c6271a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f17287804887b7ef57d71e94dd42f4d1') in 0.009375 seconds
+  Import took 0.011605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/LightingPlant1.prefab
+  artifactKey: Guid(46ca9bca5d4d6824c9973375d741a3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/LightingPlant1.prefab using Guid(46ca9bca5d4d6824c9973375d741a3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8cbdb3d18adbf575f2b16bec3cbfe10') in 0.012198 seconds
+  Import took 0.014559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Mushroom3.prefab
+  artifactKey: Guid(b87c30b9056d0fb4dbb257b188a32501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Mushroom3.prefab using Guid(b87c30b9056d0fb4dbb257b188a32501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bfef9ecd6a48aa0b6e1a06b2f82c038') in 0.012195 seconds
+  Import took 0.014788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/TreeYellow1.prefab
+  artifactKey: Guid(d85f77d368a7cb74d88aeccc3c5a5348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/TreeYellow1.prefab using Guid(d85f77d368a7cb74d88aeccc3c5a5348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d0eb95e06fdcdb90e995ed5d528773') in 0.012031 seconds
+  Import took 0.013947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Rock6.prefab
+  artifactKey: Guid(3f999b6beafe9d249bf9c3a91ff26ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Rock6.prefab using Guid(3f999b6beafe9d249bf9c3a91ff26ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf973514ab892437cb120edd5e3ccb63') in 0.013170 seconds
+  Import took 0.015901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/TreePink1.prefab
+  artifactKey: Guid(ccebfc242bed46749a5dcef87dd83423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/TreePink1.prefab using Guid(ccebfc242bed46749a5dcef87dd83423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948a8d9acb4702abff35fea7f5f78ca1') in 0.012322 seconds
+  Import took 0.014655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Rock1.prefab
+  artifactKey: Guid(c0695e50372965840badd7b84ed57617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Rock1.prefab using Guid(c0695e50372965840badd7b84ed57617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4d193a06515ccb58fd7abaaaa274e43') in 0.011373 seconds
+  Import took 0.013657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Flower2.prefab
+  artifactKey: Guid(d7375139d18121f4daae96053a84e4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Flower2.prefab using Guid(d7375139d18121f4daae96053a84e4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03480249fd3acea367ef538e4b69bb19') in 0.014931 seconds
+  Import took 0.017121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Water.prefab
+  artifactKey: Guid(8205d36f5448674429e263cd4800fd0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Water.prefab using Guid(8205d36f5448674429e263cd4800fd0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3468bd29876efb6356ef20ac652f1d02') in 0.017965 seconds
+  Import took 0.020984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Cloud2.prefab
+  artifactKey: Guid(fddda2a39f85ef043ad3625db468391f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Cloud2.prefab using Guid(fddda2a39f85ef043ad3625db468391f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7cdafac0f9bd65f3d4c4dd16d125388') in 0.010047 seconds
+  Import took 0.012492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Log.prefab
+  artifactKey: Guid(23bd600a3424d9e44ac451d447977c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Log.prefab using Guid(23bd600a3424d9e44ac451d447977c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca20c7d133065d411f25dd608c63de59') in 0.011470 seconds
+  Import took 0.013659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Paddle.prefab
+  artifactKey: Guid(6a50d63ff5ab71e4b973294a1776270a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Paddle.prefab using Guid(6a50d63ff5ab71e4b973294a1776270a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1949c123f7201994c69ac84d5c63c15') in 0.009430 seconds
+  Import took 0.011245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/TreeDead1.prefab
+  artifactKey: Guid(292c1954f8e2fd748857db06683062fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/TreeDead1.prefab using Guid(292c1954f8e2fd748857db06683062fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '479f8e7c65a8472a50c0267a2c068ee5') in 0.013410 seconds
+  Import took 0.015658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Rock9.prefab
+  artifactKey: Guid(c2cb5e8a081a26c4a94df01eb6c4e44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Rock9.prefab using Guid(c2cb5e8a081a26c4a94df01eb6c4e44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa881f6ca0962d3742a709334070a11f') in 0.013976 seconds
+  Import took 0.016727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Ivy1.prefab
+  artifactKey: Guid(b3cfafb3174116447b21e588ab379d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Ivy1.prefab using Guid(b3cfafb3174116447b21e588ab379d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb6f1785f4f3ca51d5afc61051bae962') in 0.012686 seconds
+  Import took 0.014864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/PlantEx3.prefab
+  artifactKey: Guid(87b04a6b131597e4db952f9810390439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/PlantEx3.prefab using Guid(87b04a6b131597e4db952f9810390439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a6f6885573c0d144ee2ee09a67d6143') in 0.012428 seconds
+  Import took 0.014606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Flower1.prefab
+  artifactKey: Guid(4d1f930728eb81f499eefd1f6d4db221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Flower1.prefab using Guid(4d1f930728eb81f499eefd1f6d4db221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e3ab125cf652b5b85e4dadaee85129') in 0.010629 seconds
+  Import took 0.012794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/FallenBranch.prefab
+  artifactKey: Guid(f8ccaa39b2ab7414796d8eaab4b7bb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/FallenBranch.prefab using Guid(f8ccaa39b2ab7414796d8eaab4b7bb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15a0232bc93ce0f0a3d368c7df37f2e') in 0.010428 seconds
+  Import took 0.012624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Cloud1.prefab
+  artifactKey: Guid(6789997751c6130409b863c46ad59295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Cloud1.prefab using Guid(6789997751c6130409b863c46ad59295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d9c567a800939e77e261d37998f557') in 0.016361 seconds
+  Import took 0.018209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Grass1.prefab
+  artifactKey: Guid(430aea17f65ddba419bf9f426b17128f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Grass1.prefab using Guid(430aea17f65ddba419bf9f426b17128f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2053bf568d1c261fba23993c7e80f0a') in 0.010880 seconds
+  Import took 0.013300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Grass2.prefab
+  artifactKey: Guid(7ca2fa2809968cf47852232e5d4a6e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Grass2.prefab using Guid(7ca2fa2809968cf47852232e5d4a6e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4377a1880d633a287b472e75d3debac9') in 0.012908 seconds
+  Import took 0.015562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/PlantEx2.prefab
+  artifactKey: Guid(6ab95afc5b621784ca0606b0b15afde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/PlantEx2.prefab using Guid(6ab95afc5b621784ca0606b0b15afde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1d36da1c577a0b7b1a0a599f6021bbc') in 0.013216 seconds
+  Import took 0.015376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/SimpleLowPolyNature/Prefabs/Tent.prefab
+  artifactKey: Guid(8ac33b2347e9f3c44b5343e4d23173f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Prefabs/Tent.prefab using Guid(8ac33b2347e9f3c44b5343e4d23173f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd1cad6f567e49a9cd9d6b198204b082') in 0.010548 seconds
+  Import took 0.012513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.916755 seconds.
+  path: Assets/SimpleLowPolyNature/Scenes/PrefabsScene
+  artifactKey: Guid(84d18d6db0ae8da4ca13c41d247de714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Scenes/PrefabsScene using Guid(84d18d6db0ae8da4ca13c41d247de714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'facdd175b31cf584c6a0590c7f85de04') in 0.007060 seconds
+  Import took 0.009760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041464 seconds.
+  path: Assets/SimpleLowPolyNature/Scenes/PrefabsScene/Lightmap-1_comp_dir.png
+  artifactKey: Guid(5cab939ab3666cc4091260e92b1cd3db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Scenes/PrefabsScene/Lightmap-1_comp_dir.png using Guid(5cab939ab3666cc4091260e92b1cd3db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef163491af60c415469c23594301d57') in 0.104201 seconds
+  Import took 0.106306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/SimpleLowPolyNature/Scenes/PrefabsScene/Lightmap-1_comp_light.exr
+  artifactKey: Guid(79007bb635c0658428463e660b93418d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Scenes/PrefabsScene/Lightmap-1_comp_light.exr using Guid(79007bb635c0658428463e660b93418d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a4513b9b17c953cd5f4a376139e9f1') in 0.019387 seconds
+  Import took 0.021678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.250307 seconds.
+  path: Assets/SimpleLowPolyNature
+  artifactKey: Guid(24ba0c436c378b148a9a91923912b17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature using Guid(24ba0c436c378b148a9a91923912b17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25188c201127e1681bcc80cc698612d8') in 0.007182 seconds
+  Import took 0.009598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.485204 seconds.
+  path: Assets/SimpleNaturePack/SimpleNaturePack_2020.3_HDRP_v1.24.unitypackage
+  artifactKey: Guid(58f7e79a87c79824597746e8c1bfe400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/SimpleNaturePack_2020.3_HDRP_v1.24.unitypackage using Guid(58f7e79a87c79824597746e8c1bfe400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b650193c9aa7724c5e283ec683d603') in 0.009436 seconds
+  Import took 0.011235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.598445 seconds.
+  path: Assets/SimpleNaturePack/SimpleNaturePack_2020.3_URP_v1.24.unitypackage
+  artifactKey: Guid(f58d25b9e504a4f41ab4a71cf87c1845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/SimpleNaturePack_2020.3_URP_v1.24.unitypackage using Guid(f58d25b9e504a4f41ab4a71cf87c1845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5a63509dcb276ed50e903ffc0e927d') in 0.006769 seconds
+  Import took 0.008670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.935072 seconds.
+  path: Assets/SimpleNaturePack/Scenes/PostProcessing
+  artifactKey: Guid(0bcd04f45442cb246bbd9280c0ac6cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes/PostProcessing using Guid(0bcd04f45442cb246bbd9280c0ac6cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a41cd437883d909ba8095a707d00e534') in 0.006974 seconds
+  Import took 0.009459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.081759 seconds.
+  path: Assets/SimpleNaturePack/Scenes/PostProcessing/LP_SimpleNature_PostProcessing.asset
+  artifactKey: Guid(0b15fbdf993b61d40b8229ac52978a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes/PostProcessing/LP_SimpleNature_PostProcessing.asset using Guid(0b15fbdf993b61d40b8229ac52978a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56ff386e2ed0e62a7b67167ec1ed64fd') in 0.009109 seconds
+  Import took 0.011260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/SimpleNaturePack/Scenes/PostProcessing/LP_SimpleNature_SkyAndFog.asset
+  artifactKey: Guid(1f3e3ae938c1dbd4893ab1b1d95623fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes/PostProcessing/LP_SimpleNature_SkyAndFog.asset using Guid(1f3e3ae938c1dbd4893ab1b1d95623fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8454ada0cddf7a27872360434a32cede') in 0.015094 seconds
+  Import took 0.017532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/SimpleNaturePack/Scenes/PostProcessing/PostProcessing_SimpleNaturePack.asset
+  artifactKey: Guid(5d311941da9276f48a848f448201b513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes/PostProcessing/PostProcessing_SimpleNaturePack.asset using Guid(5d311941da9276f48a848f448201b513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91674e17c511dda3622a8d28b793c100') in 0.008740 seconds
+  Import took 0.011178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/SimpleNaturePack/Scenes/PostProcessing/URP_SimpleNaturePack_Renderer.asset
+  artifactKey: Guid(f3bd1fa47cce20d48bc1b8a39b6cfce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes/PostProcessing/URP_SimpleNaturePack_Renderer.asset using Guid(f3bd1fa47cce20d48bc1b8a39b6cfce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9899721fcd39e70603f74ff3d9840969') in 0.008751 seconds
+  Import took 0.011118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/SimpleNaturePack/Scenes/PostProcessing/URP_SimpleNaturePack.asset
+  artifactKey: Guid(c7e582d21ef96944bbc8ab11547f9d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes/PostProcessing/URP_SimpleNaturePack.asset using Guid(c7e582d21ef96944bbc8ab11547f9d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e45c914e4fc60017f2bcffd1dc58a388') in 0.006911 seconds
+  Import took 0.008853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.631821 seconds.
+  path: Assets/SimpleNaturePack/Models
+  artifactKey: Guid(f2460ba6bbb1eee41b63499dcba676dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models using Guid(f2460ba6bbb1eee41b63499dcba676dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13d7326810207eaec352477fa1c5d0c5') in 0.001950 seconds
+  Import took 0.004224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064309 seconds.
+  path: Assets/SimpleNaturePack/Models/Branch_01.fbx
+  artifactKey: Guid(5528351815fd4c04abf537f22c7e18f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Branch_01.fbx using Guid(5528351815fd4c04abf537f22c7e18f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '858e0bf31188e207898d8cffc74f3612') in 0.019686 seconds
+  Import took 0.022574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/SimpleNaturePack/Models/Rock_02.fbx
+  artifactKey: Guid(3a775dc2c1a334b45a5667a56fe92c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Rock_02.fbx using Guid(3a775dc2c1a334b45a5667a56fe92c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8608c07840810d2b3d66c08bf703b840') in 0.017124 seconds
+  Import took 0.019396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/SimpleNaturePack/Models/Stump_01.fbx
+  artifactKey: Guid(768be665aba8b4e4aae7a973ae9616cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Stump_01.fbx using Guid(768be665aba8b4e4aae7a973ae9616cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c76c343e71e5c7ace76fcbe15c3fd7') in 0.040492 seconds
+  Import took 0.042719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/SimpleNaturePack/Models/Rock_01.fbx
+  artifactKey: Guid(e9089b1db16b58f4282a94e020b9c0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Rock_01.fbx using Guid(e9089b1db16b58f4282a94e020b9c0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4879e5ef1dbd3898d1302695f14bf98e') in 0.014583 seconds
+  Import took 0.016448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/SimpleNaturePack/Models/Bush_02.fbx
+  artifactKey: Guid(ba52853a69186a841a52a9cc2e9b77fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Bush_02.fbx using Guid(ba52853a69186a841a52a9cc2e9b77fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f77463154bf30881dce81609bdcf59a9') in 0.039997 seconds
+  Import took 0.042168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/SimpleNaturePack/Models/Tree_04.fbx
+  artifactKey: Guid(83e8d2542718a2e49a73d71c3a5fc685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_04.fbx using Guid(83e8d2542718a2e49a73d71c3a5fc685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d92043442d7b805d0b8d841b5802687') in 0.021959 seconds
+  Import took 0.024179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/SimpleNaturePack/Models/Tree_02.fbx
+  artifactKey: Guid(4471b1f7f824e4d44887e1364c6fc61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_02.fbx using Guid(4471b1f7f824e4d44887e1364c6fc61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc647423816d15e323453d3182c723a3') in 0.023716 seconds
+  Import took 0.026089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/SimpleNaturePack/Models/Rock_05.fbx
+  artifactKey: Guid(fa2e670bb3648a84b9df8d16da25b85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Rock_05.fbx using Guid(fa2e670bb3648a84b9df8d16da25b85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef12491ae65ce74e78de6200ca3ba34b') in 0.017342 seconds
+  Import took 0.019916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/SimpleNaturePack/Models/Rock_04.fbx
+  artifactKey: Guid(33ebf3440b12ec245bd008cd464f8d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Rock_04.fbx using Guid(33ebf3440b12ec245bd008cd464f8d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8ff142954bf72c938867872bb8d861') in 0.014474 seconds
+  Import took 0.016560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/SimpleNaturePack/Models/Ground_03.fbx
+  artifactKey: Guid(661464e19c087564badb2bf5230c842c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Ground_03.fbx using Guid(661464e19c087564badb2bf5230c842c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3450688d6df355b8cce82b20e6095a52') in 0.014985 seconds
+  Import took 0.017558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/SimpleNaturePack/Models/Bush_01.fbx
+  artifactKey: Guid(d8ea93d2d4757e444a5349f4bc849128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Bush_01.fbx using Guid(d8ea93d2d4757e444a5349f4bc849128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3945bbc4a398fff8709927196f64be24') in 0.055056 seconds
+  Import took 0.057182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/SimpleNaturePack/Models/Mushroom_02.fbx
+  artifactKey: Guid(6c890c97a154a474082af84a379dffce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Mushroom_02.fbx using Guid(6c890c97a154a474082af84a379dffce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee88cb83b0cda2088e47160ed9500f2') in 0.023696 seconds
+  Import took 0.025592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/SimpleNaturePack/Models/Bush_03.fbx
+  artifactKey: Guid(7b5a098d913a3c74692a2a9963dbd3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Bush_03.fbx using Guid(7b5a098d913a3c74692a2a9963dbd3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60319c2d4d28045dcbf95c598b8f55f0') in 0.023284 seconds
+  Import took 0.025109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/SimpleNaturePack/Models/Tree_01.fbx
+  artifactKey: Guid(6c7eaede4efc960409fb9ef2dfb77f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_01.fbx using Guid(6c7eaede4efc960409fb9ef2dfb77f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e2106285e0c647599f0b5f3663c2d2c') in 0.024308 seconds
+  Import took 0.026465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/SimpleNaturePack/Models/Tree_05.fbx
+  artifactKey: Guid(603970f97e50c56488ec3c5a6febd940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_05.fbx using Guid(603970f97e50c56488ec3c5a6febd940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dfe447b2915737bad8c3b61774ce220') in 0.021966 seconds
+  Import took 0.023797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/SimpleNaturePack/Models/Tree_03.fbx
+  artifactKey: Guid(69f0af3a0a6c73b4ab4b89eb82cdc488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Tree_03.fbx using Guid(69f0af3a0a6c73b4ab4b89eb82cdc488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ff0cc7326a9dd0b6f54e03addd5eca8') in 0.035959 seconds
+  Import took 0.038128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/SimpleNaturePack/Models/Flowers_01.fbx
+  artifactKey: Guid(b5a80b3e2a089b841b155d7c7f461e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Flowers_01.fbx using Guid(b5a80b3e2a089b841b155d7c7f461e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b6bdc55b8d80508b26dcbf27f31ab3') in 0.030781 seconds
+  Import took 0.032601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/SimpleNaturePack/Models/Grass_01.fbx
+  artifactKey: Guid(ad3119cbd6dce024e8460ef32dec49df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Grass_01.fbx using Guid(ad3119cbd6dce024e8460ef32dec49df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beab5a021e529eb0d1605033afcf6844') in 0.022413 seconds
+  Import took 0.024140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/SimpleNaturePack/Models/Rock_03.fbx
+  artifactKey: Guid(14125b656fb71fd4d9d65bfe344107ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Rock_03.fbx using Guid(14125b656fb71fd4d9d65bfe344107ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '953052a631ebca49e9194d441a145bc1') in 0.013354 seconds
+  Import took 0.015036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/SimpleNaturePack/Models/Mushroom_01.fbx
+  artifactKey: Guid(d062f5c56ffb55c4f832432ada269abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Mushroom_01.fbx using Guid(d062f5c56ffb55c4f832432ada269abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d6e6f81e8cdeb7074610c2c5c644168') in 0.021735 seconds
+  Import took 0.023461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/SimpleNaturePack/Models/Ground_02.fbx
+  artifactKey: Guid(57d3eed6d2253d24994d5ad37e00aedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Ground_02.fbx using Guid(57d3eed6d2253d24994d5ad37e00aedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f79dde246ede67f794ec63a76057303') in 0.014451 seconds
+  Import took 0.016356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/SimpleNaturePack/Models/Grass_02.fbx
+  artifactKey: Guid(638dc165572d2a84081d13ce1afb4d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Grass_02.fbx using Guid(638dc165572d2a84081d13ce1afb4d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c7c05283a0b3156b42032d11656146') in 0.025362 seconds
+  Import took 0.027365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/SimpleNaturePack/Models/Flowers_02.fbx
+  artifactKey: Guid(8ea980fdc4aa5e749b000c1a0d4b9bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Flowers_02.fbx using Guid(8ea980fdc4aa5e749b000c1a0d4b9bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cac80d1ceaa145850e6f9de40353df6') in 0.038955 seconds
+  Import took 0.040802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/SimpleNaturePack/Models/Ground_01.fbx
+  artifactKey: Guid(d4ad967689295ba4eaf8baeaebc8721b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Models/Ground_01.fbx using Guid(d4ad967689295ba4eaf8baeaebc8721b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0aee333e94572efdfd125f54eb6b1c3') in 0.013513 seconds
+  Import took 0.015650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.445095 seconds.
+  path: Assets/SimpleNaturePack/Prefabs
+  artifactKey: Guid(245080b10b3a2d542a041d0b8f4fe0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs using Guid(245080b10b3a2d542a041d0b8f4fe0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '225c3ba7ef5de4d6fa1dcc38dde7a7b7') in 0.006528 seconds
+  Import took 0.009271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049066 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Branch_01.prefab
+  artifactKey: Guid(b9de24523a11d714db3851b5f0f9d527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Branch_01.prefab using Guid(b9de24523a11d714db3851b5f0f9d527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce979ec0358cf353eaa5b86ba44b5a06') in 0.013245 seconds
+  Import took 0.015224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Tree_04.prefab
+  artifactKey: Guid(f0c16f0ea935ea64297ca1d4d55d9746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Tree_04.prefab using Guid(f0c16f0ea935ea64297ca1d4d55d9746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40378e1debf79ee1e44da25f0b9b6cb0') in 0.011533 seconds
+  Import took 0.013506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Rock_02.prefab
+  artifactKey: Guid(cebfacc247a640945a2c30b442202fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Rock_02.prefab using Guid(cebfacc247a640945a2c30b442202fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d4babde056f87b748e1f413087cfc0b') in 0.012384 seconds
+  Import took 0.014368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Mushroom_02.prefab
+  artifactKey: Guid(494f6d43e170e9145bc7865d243ee00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Mushroom_02.prefab using Guid(494f6d43e170e9145bc7865d243ee00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845ff7d54abb6d38645c1603b4b516b2') in 0.017399 seconds
+  Import took 0.019666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Rock_01.prefab
+  artifactKey: Guid(c6308cb7062fac34e8e50600086b12a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Rock_01.prefab using Guid(c6308cb7062fac34e8e50600086b12a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ea3f9a4e534daeeef084067eb2c6f1a') in 0.023396 seconds
+  Import took 0.025381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Tree_03.prefab
+  artifactKey: Guid(c60edd51c065ceb46b345849a03bc106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Tree_03.prefab using Guid(c60edd51c065ceb46b345849a03bc106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd836e1affd42f4d7bfa7eae22bf9225b') in 0.019162 seconds
+  Import took 0.021046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Flowers_01.prefab
+  artifactKey: Guid(ac8efb728f1fb9b4092c4df591c827ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Flowers_01.prefab using Guid(ac8efb728f1fb9b4092c4df591c827ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82736b1f105be5f853e421c0c94ce5d') in 0.010318 seconds
+  Import took 0.012151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Stump_01.prefab
+  artifactKey: Guid(eebb56c82efbd8d4bb0eb6bd925a0e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Stump_01.prefab using Guid(eebb56c82efbd8d4bb0eb6bd925a0e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d0355e6c1953fad9e3481c672060ed') in 0.010876 seconds
+  Import took 0.012858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Tree_02.prefab
+  artifactKey: Guid(e289bf5debb17f6459818c207d781953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Tree_02.prefab using Guid(e289bf5debb17f6459818c207d781953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775af878dba9ce0a487bda16ee8e5aac') in 0.016643 seconds
+  Import took 0.018634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Bush_01.prefab
+  artifactKey: Guid(3cdafb3c2f54d434894928d72d282874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Bush_01.prefab using Guid(3cdafb3c2f54d434894928d72d282874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a74e20aa357f142db09db11c59db5bc') in 0.015713 seconds
+  Import took 0.017619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Tree_05.prefab
+  artifactKey: Guid(60f79905accf3b24fa0114b941f1aac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Tree_05.prefab using Guid(60f79905accf3b24fa0114b941f1aac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3cb81129e1694524c5f34ffaac5c07c') in 0.019555 seconds
+  Import took 0.021428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Bush_02.prefab
+  artifactKey: Guid(b71b0f8d2f881c743a85228f3030d1cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Bush_02.prefab using Guid(b71b0f8d2f881c743a85228f3030d1cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8783e327ce1b810df1af77d99dcbf9a0') in 0.019586 seconds
+  Import took 0.021962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Tree_01.prefab
+  artifactKey: Guid(88f2fd29f58b9734683512546acec310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Tree_01.prefab using Guid(88f2fd29f58b9734683512546acec310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa37345f7fe9555e8c3e3fd4124e559') in 0.015196 seconds
+  Import took 0.017234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Mushroom_01.prefab
+  artifactKey: Guid(ff62b58c5a9ea164fa8ddf8038e10cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Mushroom_01.prefab using Guid(ff62b58c5a9ea164fa8ddf8038e10cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d2a41a624eb34196a3fc93d9c209cb') in 0.010023 seconds
+  Import took 0.011858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Bush_03.prefab
+  artifactKey: Guid(34d3f526198dae440bb2ce6005d86055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Bush_03.prefab using Guid(34d3f526198dae440bb2ce6005d86055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dab8b8f16f2f53e59b575af7bdffc9c7') in 0.013817 seconds
+  Import took 0.015835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Grass_02.prefab
+  artifactKey: Guid(ffbddc4ef9676cc419e81e06aaa836d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Grass_02.prefab using Guid(ffbddc4ef9676cc419e81e06aaa836d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac341cda22c311d6abbb4d19a0b404c') in 0.015126 seconds
+  Import took 0.017167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Rock_03.prefab
+  artifactKey: Guid(0fde05fa0f3321942a21896ff4f0856f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Rock_03.prefab using Guid(0fde05fa0f3321942a21896ff4f0856f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62a3452d68917ae7071c44dcdc5cf9f2') in 0.018836 seconds
+  Import took 0.020932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Rock_05.prefab
+  artifactKey: Guid(a778b631c6253a04899cb31bad047c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Rock_05.prefab using Guid(a778b631c6253a04899cb31bad047c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a2cfac820315501b633eedd924a0c6') in 0.010105 seconds
+  Import took 0.012318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Grass_01.prefab
+  artifactKey: Guid(f1fc5bb90ac285e4486771552d63bcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Grass_01.prefab using Guid(f1fc5bb90ac285e4486771552d63bcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cfeb0f96a90aeec83b84ffc6ce3f189') in 0.010268 seconds
+  Import took 0.012189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000815 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Rock_04.prefab
+  artifactKey: Guid(f02116c209ecd9e488fc4d2cd8996133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Rock_04.prefab using Guid(f02116c209ecd9e488fc4d2cd8996133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81eb6dfe582dc71bbfd8ce474f683f24') in 0.015081 seconds
+  Import took 0.016949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Ground_01.prefab
+  artifactKey: Guid(ebee340de387f334f9ac44e044abd8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Ground_01.prefab using Guid(ebee340de387f334f9ac44e044abd8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3bcfd7385e3c2322eb32e80cd8abb3') in 0.019925 seconds
+  Import took 0.021921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Ground_03.prefab
+  artifactKey: Guid(3f9b178ccd3b86f4ebbfc1f5a2815e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Ground_03.prefab using Guid(3f9b178ccd3b86f4ebbfc1f5a2815e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595f344db6725461bc3881a883adbcc0') in 0.015614 seconds
+  Import took 0.018153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Ground_02.prefab
+  artifactKey: Guid(e2e682b966e3f644392ffbfab511e0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Ground_02.prefab using Guid(e2e682b966e3f644392ffbfab511e0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dffdcb93f2329570899c2e6ac57e2370') in 0.013572 seconds
+  Import took 0.015897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/SimpleNaturePack/Prefabs/Flowers_02.prefab
+  artifactKey: Guid(299e7a1cb6456cf4fa6079cf5978df9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Prefabs/Flowers_02.prefab using Guid(299e7a1cb6456cf4fa6079cf5978df9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39856ce45ed4f3ba9c2e655717ad08d2') in 0.013649 seconds
+  Import took 0.016034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.876105 seconds.
+  path: Assets/SimpleNaturePack/Scenes/SimpleNaturePack_Overview.unity
+  artifactKey: Guid(b818941d93326b949a3840a1d79ea88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes/SimpleNaturePack_Overview.unity using Guid(b818941d93326b949a3840a1d79ea88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c96a422b6d235d2334743cec6034a074') in 0.006671 seconds
+  Import took 0.008741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.335940 seconds.
+  path: Assets/SimpleNaturePack/Scenes/SimpleNaturePack_Demo.unity
+  artifactKey: Guid(5e7af4bd95ac53a4cb784a9eedf8f6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes/SimpleNaturePack_Demo.unity using Guid(5e7af4bd95ac53a4cb784a9eedf8f6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62be024b9ac12273a9bd157060074d73') in 0.008083 seconds
+  Import took 0.010293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.480048 seconds.
+  path: Assets/SimpleNaturePack/Scenes/SimpleNaturePack_DemoSettings.lighting
+  artifactKey: Guid(70f1fbbec25a32b468ffc334f5f6dca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes/SimpleNaturePack_DemoSettings.lighting using Guid(70f1fbbec25a32b468ffc334f5f6dca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f271a7a7f20328920ddb9795b1a3a1') in 0.009907 seconds
+  Import took 0.011925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010915 seconds.
+  path: Assets/SimpleNaturePack/Scenes/SimpleNaturePack_DemoSettings.lighting
+  artifactKey: Guid(70f1fbbec25a32b468ffc334f5f6dca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Scenes/SimpleNaturePack_DemoSettings.lighting using Guid(70f1fbbec25a32b468ffc334f5f6dca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f271a7a7f20328920ddb9795b1a3a1') in 0.002190 seconds
+  Import took 0.003711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.032561 seconds.
+  path: Assets/SimpleLowPolyNature/Shaders
+  artifactKey: Guid(694ca9fd3a272534d927189b20f0bf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleLowPolyNature/Shaders using Guid(694ca9fd3a272534d927189b20f0bf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47db48fd3ac0047359a67448a911c07a') in 0.006854 seconds
+  Import took 0.008707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.638095 seconds.
+  path: Assets/RPGPP_LT/Scene
+  artifactKey: Guid(807cf4ac218a00345b44c9bd6cc3bf99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGPP_LT/Scene using Guid(807cf4ac218a00345b44c9bd6cc3bf99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7b0706e364ba1782268b942991acd0f') in 0.009537 seconds
+  Import took 0.013790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.344993 seconds.
+  path: Assets/RPGPP_LT/Scene/rpgpp_lt_scene_1.0.unity
+  artifactKey: Guid(d2809ab9b90eea7419d8d90d4c505d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGPP_LT/Scene/rpgpp_lt_scene_1.0.unity using Guid(d2809ab9b90eea7419d8d90d4c505d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bde75defd2a978b8f13ad15086c2a278') in 0.015466 seconds
+  Import took 0.030780 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
