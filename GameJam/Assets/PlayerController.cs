@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
     public float speed;
     public Camera cam;
     private Vector3 lastMousePosition;
-// this is a note to see if Unity will finally recognize the file. It be acting sus for some reason 
+
     void Start()
     {
         lastMousePosition = Input.mousePosition;
