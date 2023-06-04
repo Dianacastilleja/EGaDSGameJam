@@ -18,14 +18,13 @@ public class HealthBar : MonoBehaviour
 		slider.maxValue = health;
 		slider.value = health;
 
-		fill.color = gradient.Evaluate(1f);
+		fill.color = gradient.Evaluate(slider.normalizedValue);
 	}
 
     public void SetHealth(int health)
 	{
-		slider.value = health;
-
-		fill.color = gradient.Evaluate(slider.normalizedValue);
+		slider.value=health;
+        fill.color=gradient.Evaluate(slider.normalizedValue);
 	}
 	 public void TakeDamage (int amount)
     {
@@ -70,5 +69,7 @@ public class HealthBar : MonoBehaviour
         // Disable the player GameObject so they can't move or take further damage
         gameObject.SetActive(false);
     }
+
+    
 
 }
