@@ -44,3 +44,11 @@ The following packages were added:
   com.unity.textmeshpro@3.0.1
   com.unity.timeline@1.4.5
   com.unity.ugui@1.0.0
+
+=== Sun Jun  4 06:21:09 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.postprocessing@3.2.2

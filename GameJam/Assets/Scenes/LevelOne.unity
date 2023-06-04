@@ -2872,6 +2872,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 8
   cam: {fileID: 1886203313}
+  prefab: {fileID: 1171201465392465800, guid: 4aa9f30a28a77224ba84b2a2c334c71b, type: 3}
 --- !u!143 &427100835
 CharacterController:
   m_ObjectHideFlags: 0
@@ -5963,7 +5964,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1023774013}
-  m_LocalRotation: {x: 0.00000001048425, y: 0.9448927, z: -0.32738033, w: 0.000000030259887}
+  m_LocalRotation: {x: -0.000000003837499, y: 0.9448927, z: -0.3273803, w: -0.0000000110758815}
   m_LocalPosition: {x: 7.9163737, y: 6.9, z: 18.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -10201,7 +10202,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1886203310}
-  m_LocalRotation: {x: 0.00000001048425, y: 0.9448927, z: -0.32738033, w: 0.000000030259887}
+  m_LocalRotation: {x: -0.000000003837499, y: 0.9448927, z: -0.3273803, w: -0.0000000110758815}
   m_LocalPosition: {x: 7.9163737, y: 6.9, z: 18.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
