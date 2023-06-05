@@ -6,6 +6,7 @@ TagManager:
   tags:
   - WayPoints
   - Monster
+  - ElectroSlash
   layers:
   - Default
   - TransparentFX

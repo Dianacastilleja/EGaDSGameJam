@@ -23,7 +23,7 @@ public class EnemyAttack : MonoBehaviour
             if (Time.time - lastAttackTime > attackCooldown)
             {
                 // Ready to attack, deal damage to player
-                playerTransform.GetComponent<PlayerHealthBar>().TakeDamage(20);
+                playerTransform.GetComponent<PlayerHealthBar>().TakeDamage(10);
                 lastAttackTime = Time.time;
             }
         }

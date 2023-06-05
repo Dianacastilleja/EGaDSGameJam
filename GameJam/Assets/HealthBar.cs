@@ -11,7 +11,7 @@ public class HealthBar : MonoBehaviour
 	public Gradient gradient;
 	public Image fill;
     bool isDead;  // Whether the player is dead
-    bool damaged;  // Whether the player has been damaged
+    //bool damaged;  // Whether the player has been damaged
 
 	public void SetMaxHealth(int health)
 	{
@@ -39,7 +39,7 @@ public class HealthBar : MonoBehaviour
         slider.value = currentHealth;
 
         // Set the damaged flag to true to flash the damage image in the Update function
-        damaged = true;
+       // damaged = true;
 
         // If the player's health is zero or less, call the Death function
         if (currentHealth <= 0)
